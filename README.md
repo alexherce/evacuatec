@@ -15,7 +15,7 @@ Busca el APK descargado en tu Android, haz click en el y continua el proceso de 
 ## Probar en iOS
 
 * Conectar un dispositivo iOS
-* [Instalar NPM (Incluido en NodeJS](https://nodejs.org/es/)
+* [Instalar NPM (Incluido en NodeJS)](https://nodejs.org/es/)
 * Clonar el repositorio o descargarlo como zip
 * En la terminal o consola, ir al directorio descargado/clonado
 * Ejecutar el comando "npm install"
