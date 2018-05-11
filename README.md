@@ -12,6 +12,15 @@ https://github.com/alexherce/evacuatec/raw/master/EvacuaTec.apk
 
 Busca el APK descargado en tu Android, haz click en el y continua el proceso de instalación.
 
+## Probar en iOS
+
+* Conectar un dispositivo iOS
+* [Instalar NPM (Incluido en NodeJS](https://nodejs.org/es/)
+* Clonar el repositorio o descargarlo como zip
+* En la terminal o consola, ir al directorio descargado/clonado
+* Ejecutar el comando "npm install"
+* Ejecutar el comando "npm run-ios"
+
 ## Mas información
 
 * [React Native](https://facebook.github.io/react-native/docs/getting-started.html)
