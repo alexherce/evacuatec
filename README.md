@@ -10,7 +10,7 @@ https://github.com/alexherce/evacuatec/raw/master/EvacuaTec.apk
 
 ## Instalación Android
 
-* [Descarga EvacuaTec.apk](https://github.com/alexherce/evacuatec/raw/master/EvacuaTec.apk) el APK en tu Android
+* [Descarga EvacuaTec.apk](https://github.com/alexherce/evacuatec/raw/master/EvacuaTec.apk) en tu Android
 * Usando un explorador de archivos en tu Android, ve a la carpeta de descargas o busca la carpeta donde se descargó el archivo EvacuaTec.apk
 * Haz click en EvacuaTec.apk y continúa el proceso de instalación
 * Si en la instalación aparece un mensaje que no se permiten aplicaciones de terceros, sigue esta [guía](https://www.xataka.com/basics/instalar-apk-en-android-como-hacerlo-y-cuales-son-los-riesgos)
