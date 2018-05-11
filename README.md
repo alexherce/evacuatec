@@ -17,6 +17,8 @@ https://github.com/alexherce/evacuatec/raw/master/EvacuaTec.apk
 
 ## Instalación iOS y simuladores virtuales
 
+Para poder instalar o probar la aplicación en iOS, es necesario una Mac y Xcode. Como la aplicación no está en el App Store, necesitará ser reinstalada cada cierto tiempo en el dispositivo.
+
 * Conectar un dispositivo iOS (opcional)
 * [Instalar NPM (Incluido en NodeJS)](https://nodejs.org/es/)
 * Clonar el repositorio o descargarlo como zip
