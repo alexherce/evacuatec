@@ -2,24 +2,28 @@
 
 ## Descarga
 
-Descarga el APK (Android): [Descargar](https://github.com/alexherce/evacuatec/raw/master/EvacuaTec.apk)
+Descarga el APK (Android): [Descargar EvacuaTec.apk](https://github.com/alexherce/evacuatec/raw/master/EvacuaTec.apk)
 
 ```
 https://github.com/alexherce/evacuatec/raw/master/EvacuaTec.apk
 ```
 
-## Instalación
+## Instalación Android
 
-Busca el APK descargado en tu Android, haz click en el y continua el proceso de instalación.
+* [Descarga EvacuaTec.apk](https://github.com/alexherce/evacuatec/raw/master/EvacuaTec.apk) el APK en tu Android
+* Usando un explorador de archivos en tu Android, ve a la carpeta de descargas o busca la carpeta donde se descargó el archivo EvacuaTec.apk
+* Haz click en EvacuaTec.apk y continúa el proceso de instalación
+* Si en la instalación aparece un mensaje que no se permiten aplicaciones de terceros, sigue esta [guía](https://www.xataka.com/basics/instalar-apk-en-android-como-hacerlo-y-cuales-son-los-riesgos)
 
-## Probar en iOS
+## Instalación iOS y simuladores virtuales
 
-* Conectar un dispositivo iOS
+* Conectar un dispositivo iOS (opcional)
 * [Instalar NPM (Incluido en NodeJS)](https://nodejs.org/es/)
 * Clonar el repositorio o descargarlo como zip
+* Abre la terminal o consola
 * En la terminal o consola, ir al directorio descargado/clonado
 * Ejecutar el comando "npm install"
-* Ejecutar el comando "npm run-ios"
+* Ejecutar el comando "npm run-ios" o "npm run-android"
 
 ## Mas información
 
